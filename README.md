@@ -1,6 +1,6 @@
 # Proyecto de CRUD de Películas - FastAPI
 
-<img src="img/" alt="Logo Programate">
+<img src="img/1.png" alt="Logo annia">
 
 ## Descripción
 
