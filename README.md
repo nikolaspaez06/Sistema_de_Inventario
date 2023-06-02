@@ -4,15 +4,15 @@
 
 ## Descripción
 
-Este proyecto es un ejemplo de una API RESTful desarrollada con FastAPI que permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en un modelo de películas. Está diseñado con un enfoque académico para que los aprendices de programación backend puedan utilizarlo como punto de partida y comenzar a trabajar sobre él.
+Este proyecto es un ejemplo de una API RESTful desarrollada con FastAPI que permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en un modelo de productos 
 
 ## Funcionalidades
 
-- Obtener todas las películas disponibles
-- Obtener una película por su ID
-- Crear una nueva película
-- Actualizar una película existente
-- Eliminar una película
+- Obtener todos los productos
+- Obtener una producto por su ID
+- Crear una nuevo provedor 
+- Actualizar un producto existente
+- Eliminar un producto y provedor 
 
 ## Tecnologías utilizadas
 
@@ -24,12 +24,12 @@ Este proyecto es un ejemplo de una API RESTful desarrollada con FastAPI que perm
 
 1. Clona este repositorio en tu máquina local:
 
-git clone git@github.com:JSand89/my-movie-app-c9.git
+git clone https://github.com/nikolaspaez06/Sistema_de_Inventario
 
 
 2. Navega al directorio del proyecto:
 
-cd my-movie-app-c9
+cd sistema de inventario
 
 3. Tu o uno de tus companeros debe cambiar el origen del repositorio 
 
@@ -60,11 +60,8 @@ uvicorn main:app --reload
 http://localhost:8000/docs
 
 
-3. Prueba las diferentes rutas disponibles para realizar operaciones CRUD en las películas.
+3. Prueba las diferentes rutas disponibles para realizar operaciones CRUD en las del sistema de inventario
 
 
-## Contacto
-
-Si tienes alguna pregunta o sugerencia o quieres el workbook para desarrollar este proyecto, no dudes en contactarme en [jsanchez@educamas.com.co](jsanchez@educamas.com.co).
 
 
