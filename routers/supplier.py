@@ -31,7 +31,7 @@ def update_supplier(id: int, data: Supplier):
     result = SupplierService(db).get_for_id(id)
     if not result:
         return JSONResponse(content={"message": "supplier not found", "status_code": 404})
-    SupplierService(db).update_supplier(id, data)  # Se agrega el argumento 'id' en la llamada
+    SupplierService(db).update_supplier(id, data) 
     return JSONResponse({"message": "supplier update successfully", "status_code": 202}, status_code=202)
 
 
