@@ -18,7 +18,7 @@ class Product(BaseModel):
                 "id":1,
                 'name':'carene de rers ',
                 'brand':'colanta',
-                'description':'exquisito producto para recargarte el dia',
+                'description':'carne de primera',
                 'price':20000,
                 'entry_date':'29/05/2023',
                 'availability':"si", 

@@ -1,6 +1,6 @@
 # Proyecto de CRUD de Películas - FastAPI
 
-<img src="img/1.png" alt="Logo annia">
+<img src="nicolas.jpg" alt="Logo sistema de inventario">
 
 ## Descripción
 
