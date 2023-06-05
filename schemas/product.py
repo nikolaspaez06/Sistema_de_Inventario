@@ -16,12 +16,12 @@ class Product(BaseModel):
         schema_extra = {
             "example":{
                 "id":1,
-                'name':'vive100',
-                'brand':'vive100',
+                'name':'carene de rers ',
+                'brand':'colanta',
                 'description':'exquisito producto para recargarte el dia',
-                'price':2000,
+                'price':20000,
                 'entry_date':'29/05/2023',
                 'availability':"si", 
-                'available_quantity':1000
+                'available_quantity':10
             }
         }
