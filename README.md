@@ -1,6 +1,6 @@
 # Proyecto de CRUD de Películas - FastAPI
 
-<img src="nicolas.jpg" alt="Logo sistema de inventario">
+<img src="img/nicolas.jpg" alt="Logo sistema de inventario">
 
 ## Descripción
 
